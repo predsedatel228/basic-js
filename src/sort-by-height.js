@@ -24,7 +24,6 @@ function sortByHeight(arr) {
   return answer;
 }
 
-sortByHeight([-1, 150, 190, 170, -1, -1, 160, 180]);
 module.exports = {
   sortByHeight,
 };
